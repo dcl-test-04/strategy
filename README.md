@@ -1,2 +1,1 @@
-# strategy
-Strategy's repo
+# Strategy's repo
